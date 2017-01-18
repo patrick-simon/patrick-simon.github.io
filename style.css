@@ -1,10 +1,23 @@
 body {
   font-family: 'helvetica neue', arial, sans-serif;
-  font-weight: 300;
-  background-image: url(Carina Nebula.jpg);
+  font-weight: 100;
+  background-image: url(White_Lights.png);
+  opacity: 0.95;
   background-repeat: repeat;
 }
 #wrapper {
   width: 960px;
-  margin: 20px auto 20px auto;
+  margin: 10px auto 10px auto;
+}
+h1 {
+  font-size: 36px;
+}
+h2 {
+  font-size: 28px;
+}
+h3 {
+  font-size: 18px;
+}
+h4 {
+  font-size: 16px;
 }
